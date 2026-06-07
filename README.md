@@ -1,6 +1,6 @@
 # File_Analysis-Scanning_Result-
  
-## Vulnerability Analysis Lab - W6 & W7  
+## Vulnerability Analysis Lab - W7  
 
 ---
 
